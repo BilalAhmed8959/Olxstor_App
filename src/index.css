@@ -1,0 +1,25 @@
+
+.img{
+  width: 100px;
+  height: 50px;
+}
+.card{
+  width: 100%;
+  color: black;
+  border: 1px solid black;
+  text-align: center
+}
+.card img{
+  width: 200px;
+  height: 100px;
+}
+.min {
+  display: flex;
+  align-items: center;
+}
+.flex{
+  display: flex;
+  gap: 50px;
+  margin-left: 20px;
+  padding: 10px;
+}
