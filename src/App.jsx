@@ -1,8 +1,8 @@
 import Card from './assets/Card'
-import Galaxy from '../src/Img/Galaxy.webp'
-import Mobile from '../src/Img/Mobile.jpg'
-import Oppo from '../src/Img/Oppo.webp'
-import OLX from '../src/Img/OLX-Symbol.png'
+// import Galaxy from '../src/Img/Galaxy.webp'
+// import Mobile from '../src/Img/Mobile.jpg'
+// import Oppo from '../src/Img/Oppo.webp'
+// import OLX from '../src/Img/OLX-Symbol.png'
 function App(){
   return(
     <>
