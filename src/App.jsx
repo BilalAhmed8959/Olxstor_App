@@ -1,19 +1,23 @@
 import Card from './assets/Card'
+import Galaxy from '../src/Img/Galaxy.webp'
+import Mobile from '../src/Img/Mobile.jpg'
+import Oppo from '../src/Img/Oppo.webp'
+import OLX from '../src/Img/OLX-Symbol.png'
 function App(){
   return(
     <>
-    <img src="/public/img/OLX-Symbol.png" alt="" className='img'/>
+    <img src="/src/Img/OLX-Symbol.png" alt="" className='img'/>
     <div className='flex'>
       <div>
-      <Card src="/public/img/SamsungGalaxyS23Ultra.webp" res=" Re: 30,00" name="Galaxy S23" dr="Model Town Lin Road, Lahore "></Card>
+      <Card src="/src/Img/Mobile.jpg" res=" Re: 30,00" name="Galaxy S23" dr="Model Town Lin Road, Lahore "></Card>
 
       </div>
       <div>
-      <Card src="/public/img/0b8db853c28c9d32552b0217b17a4623.jpg" res="Res: 40,00" name="Galaxy S45" dr="Model Town Lin Road, karachi"></Card>
+      <Card src="/src/Img/Oppo.webp" res="Res: 40,00" name="Galaxy S45" dr="Model Town Lin Road, karachi"></Card>
 
       </div>
       <div>
-      <Card src="/public/img/pk-galaxy-a05-sm-a055-sm-a055flggpkd-539152011.webp" res="Res : 50,000" name="Galaxy A20" dr="pib krachi"></Card>
+      <Card src="/src/Img/Galaxy.webp" res="Res : 50,000" name="Galaxy A20" dr="pib krachi"></Card>
 
       </div>
       <Card/>
